@@ -6,9 +6,16 @@ Estou estudando para ser desenvolvedora de dados, me considero uma cientista de 
 
 ### 🔧 Tecnologias & Ferramentas
 
-- Linguagens: Python
+- Linguagens: Python, C#, JavaScript
+- Conhecimentos: React, HTML e CSS
 - Banco de Dados: SQL
 - Ferramentas de Visualização: Power BI
+
+### 🌐 Idiomas
+
+- 🇺🇸
+- 🇫🇷
+- 🇧🇷 
 
 ### 🌱 Atualmente Aprendendo
 
