@@ -27,11 +27,11 @@ Estou sempre em busca de aprender e aprimorar minhas habilidades. Atualmente, es
 
 ### 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&hide_title=true&hide_border=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ErikaCibellySx24&show_icons=true&hide_title=true&hide_border=true)
 
 ### 📫 Entre em Contato
 
-- LinkedIn: ([(https://www.linkedin.com/in/erika-cibelly-santos-2072751a9/)])
+- LinkedIn: (https://www.linkedin.com/in/erika-cibelly-santos-2072751a9/)
 - E-mail: erikacibelly034@gmail.com // erikacibelly.dev@gmail.com
 
 ### 💬 Sobre Mim 🔄
