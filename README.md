@@ -24,7 +24,7 @@ Estou sempre em busca de aprender e aprimorar minhas habilidades. Atualmente, es
 
 ### 📫 Entre em Contato
 
-- LinkedIn: Erika Cibelly Santos ([nkedin.com/in/erika-cibelly-santos-2072751a9/])
+- LinkedIn: ([(https://www.linkedin.com/in/erika-cibelly-santos-2072751a9/)])
 - E-mail: erikacibelly034@gmail.com // erikacibelly.dev@gmail.com
 
 ### 💬 Sobre Mim 🔄
