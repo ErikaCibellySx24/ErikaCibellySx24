@@ -1,16 +1,34 @@
-### Hi there 👋
+## Bem vind@!! 
 
-<!--
-**ErikaCibellySx24/ErikaCibellySx24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, eu me chamo Erika Cibelly 👋
 
-Here are some ideas to get you started:
+Estou estudando para ser desenvolvedora de dados, me considero uma cientista de dados apaixonada por explorar e extrair insights valiosos a partir de dados. Com habilidades em Python, manipulação de dados SQL e visualização de dados com Power BI, estou constantemente buscando maneiras de transformar dados em informações acionáveis. Tambem tenho grande curiosidade na area de cibersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tecnologias & Ferramentas
+
+- Linguagens: Python
+- Banco de Dados: SQL
+- Ferramentas de Visualização: Power BI
+
+### 🌱 Atualmente Aprendendo
+
+Estou sempre em busca de aprender e aprimorar minhas habilidades. Atualmente, estou focada em aperfeiçoar e aprender mais sobre a linguagem M e na area de cybersecurity estou focada na ciencia forense digital. 
+
+### 👨‍💻 Projetos 🔄
+
+- Esta seção está em atualização   
+
+### 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&hide_title=true&hide_border=true)
+
+### 📫 Entre em Contato
+
+- LinkedIn: Erika Cibelly Santos ([nkedin.com/in/erika-cibelly-santos-2072751a9/])
+- E-mail: erikacibelly034@gmail.com // erikacibelly.dev@gmail.com
+
+### 💬 Sobre Mim 🔄
+
+
+
+Vamos conectar e colaborar em projetos interessantes! 😄
