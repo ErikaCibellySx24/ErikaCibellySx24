@@ -2,7 +2,8 @@
 
 ## Olá, eu me chamo Erika Cibelly 👋
 
-Estou estudando para ser desenvolvedora de dados, me considero uma cientista de dados apaixonada por explorar e extrair insights valiosos a partir de dados. Com habilidades em Python, manipulação de dados SQL e visualização de dados com Power BI, estou constantemente buscando maneiras de transformar dados em informações acionáveis. Tambem tenho grande curiosidade na area de cibersecurity.
+Estou estudando para desenvolver habilidades em dados, me considero uma pessoa apaixonada pelo processo de explorar e extrair insights valiosos a partir de dados e informações. Possuo habilidades em Python, pandas, manipulação de dados SQL e visualização de dados com Power BI, estou constantemente buscando maneiras de transformar dados em informações acionáveis. Tambem tenho grande curiosidade na area de cibersecurity, estudo de forma correlata pois é uma area que me interessa bastante pelas minhas metas profissionais futuras que é me tornar uma perita. 
+
 
 ### 🔧 Tecnologias & Ferramentas
 
@@ -23,7 +24,7 @@ Estou sempre em busca de aprender e aprimorar minhas habilidades. Atualmente, es
 
 ### 👨‍💻 Projetos 🔄
 
-- Esta seção está em atualização   
+- Estou organizando e refatorando alguns projetos, mas em breve estarei disponibilizando aqui. 
 
 ### 📈 Estatísticas do GitHub
 
