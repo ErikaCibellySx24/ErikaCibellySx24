@@ -20,11 +20,11 @@ Estou estudando para desenvolver habilidades em dados, me considero uma pessoa a
 
 ### 🌱 Atualmente Aprendendo
 
-Estou sempre em busca de aprender e aprimorar minhas habilidades. Atualmente, estou focada em aperfeiçoar e aprender mais sobre a linguagem M e na area de cybersecurity estou focada na ciencia forense digital. 
+Estou sempre em busca de aprender e aprimorar minhas habilidades. Atualmente, estou focada em aperfeiçoar e aprender mais sobre a linguagem R e matando um pouco a curiosidade na area de cybersecurity, pois sou uma entusiata na area de ciencia forense digital. 
 
 ### 👨‍💻 Projetos 🔄
 
-- Estou organizando e refatorando alguns projetos, mas em breve estarei disponibilizando aqui. 
+- Você pode visuzalizar alguns projetos no meu site (https://erikacibellyportifolio.vercel.app/ )
 
 ### 📈 Estatísticas do GitHub
 
