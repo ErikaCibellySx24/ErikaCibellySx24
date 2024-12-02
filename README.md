@@ -19,8 +19,8 @@ Além disso, tenho grande interesse em **cibersegurança** e estudo a área com 
 
 ### 🌐 Idiomas
 
-- **Inglês** (fluente)
-- **Francês** (intermediário)
+- **Inglês** (intermediário)
+- **Francês** (básico)
 - **Português** (nativo)
 
 ### 📈 Impacto e Projetos
