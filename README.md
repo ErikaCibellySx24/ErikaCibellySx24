@@ -1,39 +1,30 @@
 ## Olá, eu sou Erika Cibelly 👋
 
-Sou uma entusiasta de dados e apaixonada por explorar informações para gerar insights valiosos e direcionar decisões estratégicas. Possuo uma sólida base em **Python**, **pandas**, **SQL** e **Power BI**, que uso para transformar dados brutos em resultados acionáveis. Estou sempre em busca de novos desafios e oportunidades para melhorar minha expertise em análise de dados e tecnologias correlatas.
-
-Além disso, tenho grande interesse em **cibersegurança** e estudo a área com foco em ciência forense digital, visando me tornar uma perita nessa área no futuro.
+Sou uma entusiasta de dados e apaixonada por explorar informações para gerar insights valiosos e direcionar decisões estratégicas. Tenho conhecimento em **Python**, **pandas**, **SQL** e **Power BI**, que uso para transformar dados brutos em resultados acionáveis. Estou sempre em busca de novos desafios e oportunidades para melhorar minha expertise em análise de dados e tecnologias correlatas.
 
 ### 🔧 Tecnologias & Ferramentas
 
-- **Linguagens**: Python, C#, JavaScript, atualmente aprendendo R
-- **Frameworks**: React, HTML e CSS
-- **Banco de Dados**: SQL, MySQL
-- **Ferramentas de Visualização**: Power BI, Excel intermediario
+- **Linguagens**: Python, JavaScript.
+- **Frameworks**: React, HTML e CSS.
+- **Banco de Dados**: SQL, MySQL.
+- **Ferramentas de Visualização**: Power BI, Excel intermediario.
 - **Outras Ferramentas**: Jupyter Notebooks, Git, VSCode
-
-### 🌱 Atualmente Aprendendo
-
-- **R** para análise estatística e modelagem preditiva
-- **Tableau (básico)**
 
 ### 🌐 Idiomas
 
 - **Inglês** (intermediário)
-- **Francês** (básico)
 - **Português** (nativo)
 
 ### 📈 Impacto e Projetos
 
-- Desenvolvi um dashboard em **Power BI** para análise de vendas, reduzindo o tempo de tomada de decisão em 30%.
-- Utilizei **Python e SQL** para criar um pipeline de análise de dados que otimizou a eficiência de relatórios mensais em uma empresa de consultoria.
-- Integrei **Power BI** com **SQL** para criar relatórios automatizados, aumentando a visibilidade de KPIs e contribuindo para uma melhoria de 15% no desempenho de equipes.
-- Em andamento: Projeto pessoal focado em análise de churn de clientes usando **R**, com foco em modelagem preditiva.
+- Desenvolvi um dashboard em **Power BI** para análise de vendas, reduzindo o tempo de tomada de decisão em 40%.
+- Utilizei **Python e SQL** para criar um pipeline de análise de dados que otimizou a eficiência de relatórios mensais em um projeto.
+- Integrei **Power BI** com **SQL** para criar relatórios automatizados, aumentando a visibilidade de KPIs e contribuindo para uma melhoria de 15% no desempenho.
+- Em andamento: Projeto pessoal focado em análise de faturamento mensais e anuais usando *Python*, com foco em modelagem preditiva.
 
 ### 📜 Certificações
 
-- Certificado em **Power BI** e **SQL** 
-- Curso em andamento: **Data Science com Python e R** – Udemy
+- Certificado em **Power BI**
 
 ### 💡 Habilidades-Chave
 
