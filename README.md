@@ -1,49 +1,44 @@
-## Olá, eu sou Erika Cibelly 👋
+## Hello, I'm Erika Cibelly 👋
 
-Sou uma entusiasta de dados e apaixonada por explorar informações para gerar insights valiosos e direcionar decisões estratégicas. Tenho conhecimento em **Python**, **pandas**, **SQL** e **Power BI**, que uso para transformar dados brutos em resultados acionáveis. Estou sempre em busca de novos desafios e oportunidades para melhorar minha expertise em análise de dados e tecnologias correlatas.
+I'm a data enthusiast passionate about exploring information to generate valuable insights and guide strategic decisions. I have knowledge in **Python**, **pandas**, **SQL**, and **Power BI**, which I use to transform raw data into actionable results. I am always looking for new challenges and opportunities to enhance my expertise in data analysis and related technologies.
 
-Atualmente, estou estudando sobre **NLP**, **machine learning**, **modelos de classificação** e **clustering**. 
+Currently, I'm studying **NLP**, **machine learning**, **classification models**, and **clustering**.
 
-Sou estudante de **Ciências de Dados** na **UFMS** e sou formada em **Análise e Desenvolvimento de Sistemas (ADS)**.
+I am a **Data Science** student at **UFMS** and graduated in **Analysis and Development of Systems (ADS)**.
 
-Ficou bom assim?
+---
 
-### 🔧 Tecnologias & Ferramentas
+### 🔧 Technologies & Tools
 
-- **Linguagens**: Python, JavaScript.
-- **Frameworks**: React, HTML e CSS.
-- **Banco de Dados**: MySQL.
-- **Nuvem**: AWS - Curso em andamento.
-- **Ferramentas de Visualização**: Power BI, Excel intermediario.
-- **Outras Ferramentas**: Jupyter Notebooks, Git, VSCode.
+- **Languages**: Python, JavaScript
+- **Frameworks**: React, HTML, and CSS
+- **Databases**: MySQL
+- **Cloud**: AWS - Ongoing course
+- **Data Visualization Tools**: Power BI, Intermediate Excel
+- **Other Tools**: Jupyter Notebooks, Git, VSCode
 
-### 🌐 Idiomas
+### 🌐 Languages
 
-- **Inglês** (intermediário)
-- **Português** (nativo)
+- **English** (Intermediate)
+- **Portuguese** (Native)
 
-### 📈 Impacto e Projetos
+### 📈 Impact & Projects
 
-- Desenvolvi um dashboard em **Power BI** para análise de vendas<!--reduzindo o tempo de tomada de decisão em 40%.-->
-- - Em andamento: Projeto pessoal focado em análise de faturamento mensais e anuais usando *Python*, com foco em modelagem preditiva.
-<!--- tilizei **Python e SQL** para criar um pipeline de análise de dados que otimizou a eficiência de relatórios mensais em um projeto.
-- Integrei **Power BI** com **SQL** para criar relatórios automatizados, aumentando a visibilidade de KPIs e contribuindo para uma melhoria de 15% no desempenho.-->
+- Developed a **Power BI** dashboard for sales analysis <!--reducing decision-making time by 40%.-->
+- Ongoing: Personal project focused on monthly and annual billing analysis using *Python*, with an emphasis on predictive modeling.
 
+### 📜 Certifications
 
-### 📜 Certificações
+- **Power BI** Certification
 
-- Certificado em **Power BI**
+### 💡 Key Skills
 
-### 💡 Habilidades-Chave
+- **Data Analysis**: Transforming raw data into meaningful insights for decision-making support.
 
-- **Análise de Dados**: Transformação de dados brutos em insights significativos para suporte à tomada de decisões
-<!-- **Storytelling com Dados**: Criação de relatórios claros e impactantes para diferentes públicos
-- **KPIs e Métricas**: Definição e análise de métricas de desempenho para avaliar resultados
-- **Automação de Relatórios**: Criação de soluções automatizadas para monitoramento contínuo de dados-->
-<!---->
-### 📫 Entre em Contato
+---
 
-- **LinkedIn**: [Erika Cibelly Santos](https://www.linkedin.com/in/erika-cibelly-santos-2072751a9/)
-- **Portfólio**: [Meu Portfólio](https://erikacibellyportifolio.vercel.app/)
-- **E-mail**: erikacibelly034@gmail.com // erikacibelly.dev@gmail.com
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaCibellySx24&layout=compact&theme=radical) 
+
 
