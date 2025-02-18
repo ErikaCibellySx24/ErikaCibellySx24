@@ -1,44 +1,43 @@
-## Hello, I'm Erika Cibelly 👋
+## Olá, sou Erika Cibelly 👋
 
-I'm a data enthusiast passionate about exploring information to generate valuable insights and guide strategic decisions. I have knowledge in **Python**, **pandas**, **SQL**, and **Power BI**, which I use to transform raw data into actionable results. I am always looking for new challenges and opportunities to enhance my expertise in data analysis and related technologies.
+Sou uma entusiasta de dados apaixonada por explorar informações para gerar insights valiosos e orientar decisões estratégicas. Tenho conhecimento em **Python**, **pandas**, **SQL**, e **Power BI**, que uso para transformar dados brutos em resultados acionáveis. Estou sempre em busca de novos desafios e oportunidades para aprimorar minha experiência em análise de dados e tecnologias relacionadas.
 
-Currently, I'm studying **NLP**, **machine learning**, **classification models**, and **clustering**.
+Atualmente, estou estudando **NLP**, **aprendizado de máquina**, **modelos de classificação** e **agrupamento**.
 
-I am a **Data Science** student at **UFMS** and graduated in **Analysis and Development of Systems (ADS)**.
-
----
-
-### 🔧 Technologies & Tools
-
-- **Languages**: Python, JavaScript
-- **Frameworks**: React, HTML, and CSS
-- **Databases**: MySQL
-- **Cloud**: AWS - Ongoing course
-- **Data Visualization Tools**: Power BI, Intermediate Excel
-- **Other Tools**: Jupyter Notebooks, Git, VSCode
-
-### 🌐 Languages
-
-- **English** (Intermediate)
-- **Portuguese** (Native)
-
-### 📈 Impact & Projects
-
-- Developed a **Power BI** dashboard for sales analysis <!--reducing decision-making time by 40%.-->
-- Ongoing: Personal project focused on monthly and annual billing analysis using *Python*, with an emphasis on predictive modeling.
-
-### 📜 Certifications
-
-- **Power BI** Certification
-
-### 💡 Key Skills
-
-- **Data Analysis**: Transforming raw data into meaningful insights for decision-making support.
+Sou estudante de **Ciência de Dados** na **UFMS** e graduada em **Análise e Desenvolvimento de Sistemas (ADS)**.
 
 ---
 
-## 📊 GitHub Stats
+### 🔧 Tecnologias & Ferramentas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaCibellySx24&layout=compact&theme=radical) 
+- **Linguagens**: Python, JavaScript
+- **Frameworks**: React, HTML, e CSS
+- **Bancos de Dados**: MySQL
+- **Cloud**: AWS - Curso em andamento
+- **Ferramentas de Visualização de Dados**: Power BI, Excel Intermediário
+- **Outras Ferramentas**: Jupyter Notebooks, Git, VSCode
+- **Bibliotecas de Análise de Dados e Ciência de Dados**: pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Doctr e Plotly
 
+### 🌐 Idiomas
 
+- **Inglês** (Intermediário)
+- **Português** (Nativo)
+
+### 📈 Impacto & Projetos
+
+- Desenvolvi um **dashboard Power BI** para análise de vendas <!--reduzindo o tempo de tomada de decisões em 40%.-->
+- Em andamento: Projeto pessoal focado em análise de faturamento mensal e anual usando *Python*, com ênfase em modelagem preditiva.
+
+### 📜 Certificações
+
+- **Certificação Power BI**
+
+### 💡 Principais Habilidades
+
+- **Análise de Dados**: Transformando dados brutos em insights significativos para apoiar a tomada de decisões.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaCibellySx24&layout=compact&theme=radical)
