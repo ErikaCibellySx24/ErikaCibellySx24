@@ -25,8 +25,7 @@ Sou estudante de **Ciência de Dados** na **UFMS** e graduada em **Análise e De
 
 ### 📈 Impacto & Projetos
 
-- Desenvolvi um **dashboard Power BI** para análise de vendas <!--reduzindo o tempo de tomada de decisões em 40%.-->
-- Em andamento: Projeto pessoal focado em análise de faturamento mensal e anual usando *Python*, com ênfase em modelagem preditiva.
+- Em update
 
 ### 📜 Certificações
 
