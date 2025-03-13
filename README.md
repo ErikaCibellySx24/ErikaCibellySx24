@@ -10,13 +10,13 @@ Sou estudante de **Ciência de Dados** na **UFMS** e graduada em **Análise e De
 
 ### 🔧 Tecnologias & Ferramentas
 
-- **Linguagens**: Python, JavaScript
-- **Frameworks**: React, HTML, e CSS
+- **Linguagens**: Python, JavaScript e Java
+- **Frameworks**: React, Spring Boot e Flask
 - **Bancos de Dados**: MySQL
-- **Cloud**: AWS - Curso em andamento
-- **Ferramentas de Visualização de Dados**: Power BI, Excel Intermediário
+- **Cloud**: AWS 
+- **Ferramentas de Visualização de Dados**: Power BI
 - **Outras Ferramentas**: Jupyter Notebooks, Git, VSCode
-- **Bibliotecas de Análise de Dados e Ciência de Dados**: pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Doctr e Plotly
+- **Bibliotecas de Análise de Dados e Ciência de Dados**: pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Doctr, Plotly e faker
 
 ### 🌐 Idiomas
 
