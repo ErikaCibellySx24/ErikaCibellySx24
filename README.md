@@ -23,14 +23,6 @@ Sou estudante de **Ciência de Dados** na **UFMS** e graduada em **Análise e De
 - **Inglês** (Intermediário)
 - **Português** (Nativo)
 
-### 📈 Impacto & Projetos
-
-- Em update
-
-### 📜 Certificações
-
-- **Certificação Power BI**
-
 ### 💡 Principais Habilidades
 
 - **Análise de Dados**: Transformando dados brutos em insights significativos para apoiar a tomada de decisões.
