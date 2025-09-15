@@ -1,34 +1,42 @@
 ## Olá, sou Erika Cibelly 👋
 
-Sou uma entusiasta de dados apaixonada por explorar informações para gerar insights valiosos e orientar decisões estratégicas. Tenho conhecimento em **Python**, **pandas**, **SQL**, e **Power BI**, que uso para transformar dados brutos em resultados acionáveis. Estou sempre em busca de novos desafios e oportunidades para aprimorar minha experiência em análise de dados e tecnologias relacionadas.
+Sou uma desenvolvedora **Front-end** apaixonada por criar interfaces modernas, interativas e funcionais. Gosto de transformar ideias em experiências digitais fluidas, utilizando as melhores práticas em design responsivo e usabilidade.
 
-Atualmente, estou estudando **NLP**, **aprendizado de máquina**, **modelos de classificação** e **agrupamento**.
+Tenho conhecimento em **React**, **JavaScript**, **TailwindCSS** e ferramentas que me ajudam a entregar aplicações performáticas e bem estruturadas. Estou sempre em busca de evoluir minhas habilidades e acompanhar as tendências no desenvolvimento web.
 
-Sou estudante de **Ciência de Dados** na **UFMS** e graduada em **Análise e Desenvolvimento de Sistemas (ADS)**.
+Atualmente, estou estudando **animações com Framer Motion**, **boas práticas de UI/UX** e **integração com APIs**.
+
+Sou graduada em **Análise e Desenvolvimento de Sistemas (ADS)**.
 
 ---
 
 ### 🔧 Tecnologias & Ferramentas
 
-- **Linguagens**: Python, JavaScript e Java
-- **Frameworks**: React, Spring Boot e Flask
-- **Bancos de Dados**: MySQL
-- **Cloud**: AWS 
-- **Ferramentas de Visualização de Dados**: Power BI
-- **Outras Ferramentas**: Jupyter Notebooks, Git, VSCode
-- **Bibliotecas de Análise de Dados e Ciência de Dados**: pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Doctr, Plotly e faker
+* **Linguagens**: JavaScript, TypeScript, Python e Java
+* **Frameworks e Bibliotecas**: React, Vite, TailwindCSS, Spring Boot, Flask
+* **Bancos de Dados**: MySQL
+* **Cloud**: AWS
+* **Ferramentas de Versionamento**: Git, GitHub
+* **Ferramentas de Desenvolvimento**: VSCode, Figma
+* **Bibliotecas Front-end**: Framer Motion, Axios, React Router
+
+---
 
 ### 🌐 Idiomas
 
-- **Inglês** (Intermediário)
-- **Português** (Nativo)
+* **Inglês** (Intermediário)
+* **Português** (Nativo)
+
+---
 
 ### 💡 Principais Habilidades
 
-- **Análise de Dados**: Transformando dados brutos em insights significativos para apoiar a tomada de decisões.
+* **Desenvolvimento Front-end**: Criação de interfaces responsivas, interativas e acessíveis.
+* **UI/UX**: Aplicando boas práticas para melhorar a experiência do usuário.
+* **Integração com APIs**: Consumo e manipulação de dados em aplicações web.
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaCibellySx24&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaCibellySx24\&layout=compact\&theme=radical)
