@@ -37,7 +37,3 @@ Tenho interesse em análise de dados, visualização de informações, automaç�
 * Engenharia de Dados
 * Governança de Dados
 
-## 📫 Contato
-
-* LinkedIn: *adicione seu link*
-* E-mail: *adicione seu e-mail*
