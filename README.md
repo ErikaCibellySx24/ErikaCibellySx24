@@ -1,42 +1,43 @@
-## Olá, sou Erika Cibelly 👋
+# Olá, eu sou Erika Cibelly 👋
 
-Sou uma desenvolvedora **Front-end** apaixonada por criar interfaces modernas, interativas e funcionais. Gosto de transformar ideias em experiências digitais fluidas, utilizando as melhores práticas em design responsivo e usabilidade.
+🎯 **Analista de Dados | Business Intelligence | Administração Pública**
 
-Tenho conhecimento em **React**, **JavaScript**, **TailwindCSS** e ferramentas que me ajudam a entregar aplicações performáticas e bem estruturadas. Estou sempre em busca de evoluir minhas habilidades e acompanhar as tendências no desenvolvimento web.
+Sou graduada em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Ciência de Dados**.
 
-Atualmente, estou estudando **animações com Framer Motion**, **boas práticas de UI/UX** e **integração com APIs**.
+Atuo na **Administração Pública**, aplicando **Business Intelligence** e análise de dados na gestão de contratos públicos. Meu trabalho envolve transformar dados em informações estratégicas por meio da construção de indicadores, relatórios gerenciais e dashboards que apoiam a tomada de decisão e a otimização de processos.
 
-Sou graduada em **Análise e Desenvolvimento de Sistemas (ADS)**.
+Também faço parte do **Comitê de LGPD**, contribuindo para iniciativas de governança de dados, conformidade com a legislação e proteção de dados pessoais.
 
----
+Tenho interesse em análise de dados, visualização de informações, automação de processos e governança de dados, buscando sempre desenvolver soluções que gerem valor para o negócio.
 
-### 🔧 Tecnologias & Ferramentas
+## 🚀 Tecnologias
 
-* **Linguagens**: JavaScript, TypeScript, Python e Java
-* **Frameworks e Bibliotecas**: React, Vite, TailwindCSS, Spring Boot, Flask
-* **Bancos de Dados**: MySQL
-* **Cloud**: AWS
-* **Ferramentas de Versionamento**: Git, GitHub
-* **Ferramentas de Desenvolvimento**: VSCode, Figma
-* **Bibliotecas Front-end**: Framer Motion, Axios, React Router
+**Análise de Dados**
 
----
+* Power BI
+* SQL (MySQL)
+* Python (Pandas, NumPy, Matplotlib)
+* Excel Avançado
+* ETL
+* Modelagem de Dados
 
-### 🌐 Idiomas
+**Desenvolvimento**
 
-* **Inglês** (Intermediário)
-* **Português** (Nativo)
+* JavaScript
+* TypeScript
+* React
+* Java
+* Git & GitHub
 
----
+## 🌱 Atualmente estudando
 
-### 💡 Principais Habilidades
+* Ciência de Dados
+* Machine Learning
+* Estatística Aplicada
+* Engenharia de Dados
+* Governança de Dados
 
-* **Desenvolvimento Front-end**: Criação de interfaces responsivas, interativas e acessíveis.
-* **UI/UX**: Aplicando boas práticas para melhorar a experiência do usuário.
-* **Integração com APIs**: Consumo e manipulação de dados em aplicações web.
+## 📫 Contato
 
----
-
-## 📊 Estatísticas do GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaCibellySx24\&layout=compact\&theme=radical)
+* LinkedIn: *adicione seu link*
+* E-mail: *adicione seu e-mail*
